@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  gap: 30px;
+  
+}
+.main {
+  display: flex;
+  
+  align-items: center;
+  width: 420px;
+  background: rgb(77, 4, 77);
+  border-radius: 20px;
+  gap: 20px;
+  padding: 10px;
+}
+
+.img {
+  width: 200px;
+  height: auto;
+}
